@@ -1,0 +1,24 @@
+.center{
+  display: flex;
+  justify-content: center;
+  border-style: double;
+  border-radius: 45px;
+  padding: 10px;
+  background: radial-gradient(#232323, #171717, #5b5b5b);
+  font-size: 40px;
+  font-family: Roboto;
+  text-decoration: none;
+  color: #7c6767;
+  font-weight: bold;
+}
+.center a{
+
+}
+.center_div{
+  display: flex;
+  justify-content: center;
+  margin: 20%;
+}
+body{
+  background-color: #131313;
+}
